@@ -1,5 +1,5 @@
 ### Hi there, it's so nice to meet you here! 👋
-I am currently an undergraduate majoring in Computer Science and Technology, and I am interested in many fields related to computers.
+I am an undergraduate majoring in Computer Science and Technology, and I am interested in many fields related to computer science.
 
 I have a few simple projects on back-end written in java and python, along with one research project on NLP, from which you can see that there could be just a lot more improvements and progress.
 
