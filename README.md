@@ -3,7 +3,7 @@ I am an undergraduate majoring in Computer Science and Technology, and I am inte
 
 I have a few simple projects on back-end written in java and python, along with a research project on NLP, from which you can see that there could be just a lot more improvements and progress.
 
-We are all on our way to becoming stronger, and that will never stop. If you have a favorable impression of me, please do not hesitate to contact me at my email and I believe we can have a great conversation!
+We are all on our way to becoming stronger, and that will never stop. If you have a favorable impression of me, please do not hesitate to contact me by my email and I believe we can have a great conversation!
 <!--
 **EvanTheBoy/EvanTheBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
