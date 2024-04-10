@@ -1,7 +1,7 @@
 ### Hi, it's so nice to meet you here! 👋
 I am an undergraduate majoring in Computer Science and Technology, and I am interested in many fields related to computer science.
 
-I have a few projects written in java, python and go, along with a research project on NLP, and I am learning many technologies and improving myself as well.
+I have a few projects written in java, python and go, along with a research project on NLP, I am learning many technologies and improving myself as well.
 
 We are all on our way to becoming stronger, and that will never stop. If you have a favorable impression of me, please do not hesitate to contact me by my email and I believe we can have a great conversation!
 <!--
