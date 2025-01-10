@@ -1,7 +1,7 @@
 ### Hi, it's so nice to meet you here! 👋
 I completed my undergraduate studies in Computer Science and Technology at Central South University (CSU) and am currently pursuing my graduate degree at New York University (NYU), with interests in various fields related to computer science and artificial intelligence.
 
-I have completed a few projects written in Java, Python, and Golang, along with a research project on NLP. I am also learning new technologies and continuously improving myself.
+I have completed a few projects written in Java, Python, and Golang, along with a research project and a publication on NLP. I am also learning new technologies and continuously improving myself.
 
 We are all on our journey to becoming stronger, and that journey will never end. If you have a favorable impression of me, please feel free to contact me via email. I believe we can have a great conversation!
 <!--
